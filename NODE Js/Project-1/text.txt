@@ -1,0 +1,9 @@
+REST api --json
+
+get /users--->give all users
+
+//dynamic path paras
+get /user1---->gie user with id 1
+post /users---->create new user
+patch /user1--->edit the data of user 1
+delte /user1-->delete user1
