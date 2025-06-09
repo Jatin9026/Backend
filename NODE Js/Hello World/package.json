@@ -8,8 +8,8 @@
   "main": "hello.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "jatin":"node hello.js",
-    "backend":"node hello.js",
-    "start":"node hello.js"
+    "jatin": "node hello.js",
+    "backend": "node hello.js",
+    "start": "node init && node hello.js"
   }
 }
